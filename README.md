@@ -25,7 +25,11 @@ Our challenge was to create a model that could predict the successful outcome fo
 
 - Compiling, Training, and Evaluating
 	- In the final model:
-	    - Four layers with 9,011 parameters with a Relu activation function.
+	
+	![Final_model_layers](https://user-images.githubusercontent.com/85756203/141693814-5695a680-1d07-4954-ad04-8a55d4a383db.png)
+	![Final_model_score](https://user-images.githubusercontent.com/85756203/141693822-59dc3fda-c085-4255-8282-4430366f2eae.png)
+
+	 - Four layers with 9,011 parameters with a Relu activation function.
         The target module performance was not achieved.
 
 	- Performance improvement steps.
